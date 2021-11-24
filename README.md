@@ -1,4 +1,4 @@
-# I'm Front-End Web Developer
+# I'm a Front-End Web Developer
 
 
 ![Shokh-Jakhon's github stats ](https://github-readme-stats.vercel.app/api?username=Jalilovking&show_icons=true&theme=tokyonight)
@@ -9,7 +9,7 @@
 
 **Most used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalilovking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalilovking&layout=compact)
 
 
 
