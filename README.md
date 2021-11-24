@@ -1,5 +1,4 @@
-# I'm Full-Stack Web Developer
-# I'm Full-Stack Web Developer
+# I'm Front-End Web Developer
 
 
 ![Shokh-Jakhon's github stats ](https://github-readme-stats.vercel.app/api?username=Jalilovking&show_icons=true&theme=tokyonight)
